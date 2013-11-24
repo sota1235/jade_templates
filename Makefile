@@ -15,9 +15,7 @@ copy:
 
 rm:
 	echo "### Removing somefiles... ###"
-	echo ""
 	echo "### Removing Makefile... ###"
 	rm ~/Package/jade_templates/Makefile
-	echo ""
 	echo "### Removing README.md... ###"
 	rm ~/Package/jade_templates/README.md
