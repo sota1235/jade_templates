@@ -1,10 +1,10 @@
-### Jade Templates
+# Jade Templates
 
-# When
+## When
 
 * You write .jade file.
 
-# How to use
+## How to use
 
 * Put "jade_templates" folder on current directory.
 
@@ -12,6 +12,6 @@
 
 * You can edit ./common/\* files.
 
-# Thanks
+## Thanks
 
 * [超入門：テンプレートエンジンJade その２](http://takutoguchi.com/programming/jade-2/ "超入門：テンプレートエンジンJade その２")
